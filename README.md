@@ -7,7 +7,9 @@ A clean and responsive **quiz application** built using **vanilla JavaScript, HT
 
 ## 📸 Demo
 
-![Quiz Screenshot](https://via.placeholder.com/800x400.png?text=Quiz+App+Preview)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0ce56794-ec30-4a6c-b58c-96d508a28435" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f8638989-440c-4ab7-b7a2-cd028fe65d89" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/62f3eda2-2bd6-45ea-97d0-a49d89ab6b0e" />
 
 ---
 
@@ -31,5 +33,5 @@ A clean and responsive **quiz application** built using **vanilla JavaScript, HT
 
 ---
 
-## 📂 Project Structure
+
 
